@@ -14,16 +14,16 @@ The project is designed as an introductory programming assignment (PA0). Most of
 ## 👥 Team Information
 
 ### Partner #1
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name: Adiel E. Vargas Milán**
+- **Student Number: 802-25-3517**
+- **Email: adiel.vargas1@upr.edu**
 
 ### Partner #2
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name: Francisco Yamil Valentín Ortiz**
+- **Student Number: 802-21-0191**
+- **Email: francisco.valentin10@upr.edu**
 
 ## ⭐ Bonus Features (Optional)
 List and briefly describe any additional features or enhancements implemented beyond the basic requirements.
-- Bonus Feature 1
-- Bonus Feature 2
+- Bonus Feature 1: Added music
+- Bonus Feature 2: Multiplayer functionality
