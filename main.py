@@ -86,7 +86,7 @@ def setup_players(count):
     bird_start_y = [200, 200][:count]
     bird_x = bird_start_x[:]
     bird_y = bird_start_y[:]
-    bird_velocity = [0] * count
+    bird_velocity = [10] * count
     bird_alive = [True] * count
     scores = [0] * count
     passed_pipe = [False] * count
